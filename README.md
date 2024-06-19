@@ -2,8 +2,6 @@
 - 👀 I’m interested in java backend devlopment
 - 🌱 I’m currently learning about rustful APIs
 - 📫 How to reach me email Id- g1911ayu@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 ayagt-u/ayagt-u is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
